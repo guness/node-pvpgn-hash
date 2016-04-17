@@ -1,0 +1,33 @@
+{
+  "name": "pvpgn-hash",
+  "version": "1.0.0",
+  "description": "NodeJS implementation of Broken SHA-1 Hash for PvPGN",
+  "main": "pvpgn-hash.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guness/node-pvpgn-hash.git"
+  },
+  "keywords": [
+    "PvPGN",
+    "broken",
+    "sha1",
+    "broken",
+    "sha-1",
+    "x-sha1",
+    "bnpass",
+    "bnchat",
+    "bnetd"
+  ],
+  "author": "guness",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/guness/node-pvpgn-hash/issues"
+  },
+  "homepage": "https://github.com/guness/node-pvpgn-hash#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
