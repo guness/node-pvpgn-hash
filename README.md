@@ -1,5 +1,11 @@
-# node-pvpgn-hash
+# pvpgn-hash
 NodeJS implementation of Broken SHA-1 for PvPGN
+
+install:
+
+```
+npm install pvpgn-hash
+```
 
 example usage:
 
