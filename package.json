@@ -1,6 +1,6 @@
 {
   "name": "pvpgn-hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS implementation of Broken SHA-1 Hash for PvPGN",
   "main": "pvpgn-hash.js",
   "repository": {
